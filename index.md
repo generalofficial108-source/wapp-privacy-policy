@@ -166,9 +166,12 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 **Shriraj Misal**
 Owner, Antrixum_prod
 
-- **Email Address**: [YOUR_EMAIL_ADDRESS]
-- **Contact Number**: [YOUR_CONTACT_NUMBER]
-- **Business Address**: [YOUR_BUSINESS_ADDRESS]
+Email Address: misalshriraj0010@gmail.com
+Contact Number: 7410102010
+Business Address: SR. NO. 37/6/1/5, MANTERWADI, URULI DEWACHI
+PUNE, Maharashtra 412308
+India
+
 
 We will respond to all legitimate enquiries within a reasonable time frame, and in any case within the timeframe required by applicable law.
 
