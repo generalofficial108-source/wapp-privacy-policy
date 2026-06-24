@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-Welcome to **Antrixum_prod**, a WhatsApp Business Messaging Application owned and operated by **Shriraj Misal** ("we," "our," or "us"). This Privacy Policy describes how we collect, use, store, share, and protect information when you use our application and related services.
+Welcome to **Antrixum_prod**, a WhatsApp Business Messaging Application owned and operated by **Shriraj Misal** on behalf of **Antrixum Systems Private Limited** ("we," "our," or "us"). This Privacy Policy describes how we collect, use, store, share, and protect information when you use our application and related services.
 
 Antrixum_prod is built on the **Meta WhatsApp Cloud API** and is designed to facilitate business communication through WhatsApp. By accessing or using our services, you acknowledge that you have read, understood, and agree to the practices described in this Privacy Policy.
 
@@ -164,17 +164,14 @@ Your continued use of Antrixum_prod after any changes become effective constitut
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
 **Shriraj Misal**
-Owner, Antrixum_prod
+Director, Antrixum Systems Private Limited
 
-Email Address: misalshriraj0010@gmail.com
-Contact Number: 7410102010
-Business Address: SR. NO. 37/6/1/5, MANTERWADI, URULI DEWACHI
-PUNE, Maharashtra 412308
-India
-
+- **Email Address**: misalshriraj0010@gmail.com
+- **Contact Number**: 7410102010
+- **Business Address**: SR. NO. 37/6/1/5, MANTERWADI, URULI DEWACHI, PUNE, Maharashtra 412308, India
 
 We will respond to all legitimate enquiries within a reasonable time frame, and in any case within the timeframe required by applicable law.
 
 ---
 
-*This Privacy Policy is governed by the laws of India. Any disputes arising in connection with this policy shall be subject to the jurisdiction of the competent courts in India.*
+*This Privacy Policy is governed by the laws of India. Antrixum Systems Private Limited is a company incorporated in India. Any disputes arising in connection with this policy shall be subject to the jurisdiction of the competent courts in India.*
